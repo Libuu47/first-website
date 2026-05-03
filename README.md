@@ -1,4 +1,4 @@
-# "random site that i made"
+# "A website I made during a tutorial"
 Hello this is my Site that I created 
 
 ## Preview
