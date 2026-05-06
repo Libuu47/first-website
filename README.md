@@ -1,5 +1,6 @@
 # "A website I made during a tutorial"
-Hello this is my Site that I created 
+Hi,
+this is my Website that I created with help of an tutorial.
 
 ## Preview
 
